@@ -1,0 +1,10 @@
+name: docker
+channels:
+- conda-forge
+dependencies:
+- numpy=2.3.5
+- altair=6.0.0
+- pandas=2.3.3
+- python=3.11.14
+- conda-lock=3.0.4
+prefix: /Users/chikire/miniforge3/envs/docker
